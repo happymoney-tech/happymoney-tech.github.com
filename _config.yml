@@ -21,8 +21,8 @@ title_separator          : "&$124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "해피머니아이엔씨"
 description              : "해피머니 기술본부"
-url                      : "happymoney-tech.github.io"
-baseurl                  : "해피코딩"
+url                      : "https://happymoney-tech.github.io"
+baseurl                  : #
 repository               : # git hub repository
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
