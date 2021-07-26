@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "해피머니 기술본부"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/profile/happymoney_logo.png"
   bio              : "해피머니 기술본부에서 운영중인 <br> 기술블로그입니다"
   location         : "Republic of Korea"
   email            : "hskim@happymoney.co.kr"
@@ -118,13 +118,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/www.happymoney.co.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/happymoneyinc_official/?hl=ko"
 
 # Site Footer
 footer:
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/www.happymoney.co.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/happymoneyinc_official/?hl=ko"
 
 
 # Reading Files
