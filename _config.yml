@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "해피머니아이엔씨"
 title_separator          : "&$124;"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "해피코딩"
 name                     : "해피머니아이엔씨"
 description              : "해피머니 기술본부"
 url                      : "https://happymoney-tech.github.io"
