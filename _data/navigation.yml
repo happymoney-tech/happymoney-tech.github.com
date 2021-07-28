@@ -4,7 +4,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
   - title: "연도별 Articles"
     url: /posts/
+  - title: "About"
+    url: /about/
+  
