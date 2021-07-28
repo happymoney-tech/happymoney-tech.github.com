@@ -20,12 +20,6 @@ toc_icon: "bookmark"
 > 개발툴 : JetBrains Ultimate<br>
 > Spring Boot : 2.5.2
 
-```gradle
-implementation 'com.googlecode.soundlibs:mp3spi:1.9.5.4'
-implementation 'commons-io:commons-io:2.11.0'
-```
-<br>
-
 ```java
 public class RemoteFileChecker {
     @Test
