@@ -33,3 +33,5 @@ public class RemoteFileChecker {
     }
 }
 ```
+
+참고로, response code를 이용하면 다양한 형태로 리모트 리소스의 상태를 확인할 수 있다.
